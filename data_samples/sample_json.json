@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Fiona Adams", "email": "fiona.adams@example.com", "age": 56, "city": "Chicago", "signup_date": "2023-07-25"},
+  {"id": 2, "name": "Julia Hall", "email": "julia.hall@example.com", "age": 44, "city": "Houston", "signup_date": "2021-04-06"},
+  {"id": 3, "name": "Alice Smith", "email": "alice.smith@example.com", "age": 58, "city": "Dallas", "signup_date": "2021-05-19"},
+  {"id": 4, "name": "Bob Johnson", "email": "bob.johnson@example.com", "age": 37, "city": "Houston", "signup_date": "2022-02-11"},
+  {"id": 5, "name": "Hannah Lewis", "email": "hannah.lewis@example.com", "age": 27, "city": "Los Angeles", "signup_date": "2022-04-19"},
+  {"id": 6, "name": "Julia Hall", "email": "julia.hall@example.com", "age": 51, "city": "San Diego", "signup_date": "2024-06-23"},
+  {"id": 7, "name": "Julia Hall", "email": "julia.hall@example.com", "age": 50, "city": "Phoenix", "signup_date": "2020-12-05"},
+  {"id": 8, "name": "Alice Smith", "email": "alice.smith@example.com", "age": 42, "city": "San Antonio", "signup_date": "2021-07-14"},
+  {"id": 9, "name": "George Clark", "email": "george.clark@example.com", "age": 36, "city": "Philadelphia", "signup_date": "2022-10-22"},
+  {"id": 10, "name": "Ian Walker", "email": "ian.walker@example.com", "age": 29, "city": "San Jose", "signup_date": "2023-01-03"}
+]
